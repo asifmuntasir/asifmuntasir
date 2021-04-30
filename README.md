@@ -3,7 +3,7 @@
 
 ## I'm a 😍😍 JavaScript Lover 😍😍!
 
-Skills: HTML / CSS/ Bootstrap/ JavaScript/ TypeScript/React/ Node.js/Express/ Python/ C++
+Skills: HTML / CSS/ Bootstrap/ JavaScript/ React/ Node.js/Express/ Python/ C++/ Java/ Material UI/ React-Bootstrap
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning React/Node.js/MongoDB.
