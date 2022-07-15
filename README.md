@@ -36,6 +36,15 @@
   <a href="https://www.w3schools.com/CPP/default.asp" target="_blank"> 
     <img alt="C++" src="https://img.shields.io/badge/C++-1e3799?style=for-the-badge&logo=c++&logoColor=white">
   </a>
+  <a href="https://www.java.com" target="_blank"> 
+    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  </a>
+  <a href="https://www.javascript.com/" target="_blank"> 
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-fed330?style=for-the-badge&logo=c++&logoColor=white">
+  </a>
+  <a href="https://www.python.org" target="_blank">
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  </a>
 
 ### Connect with me:
 
