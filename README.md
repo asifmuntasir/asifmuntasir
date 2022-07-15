@@ -1,5 +1,6 @@
-### Hi there 👋, my name is Asif Muntasir
+<p>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=0BE881&lines=Hey+there!+Its+me+Asif+Muntasir.;I'm+learning+Full+Stack+Development...;I+also+a+CRAZY+JavaScript+fan...;Stay+with+me!)](https://git.io/typing-svg)<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
+</p>
 
 ![](https://raw.githubusercontent.com/asifmuntasir/asifmuntasir/master/header_.png)
 
@@ -10,7 +11,7 @@
 <div>
   
   <p>
-  I am a Full Stack MERN Developer with 2 years of hands-on experience, having a great experience with Node JS with Express framework and MongoDB for database, specialized in javascript stack (i.e., Node.js, React.js), love to build full-stack applications, and currently working on blockchain. 
+  I am a Full Stack MERN Developer with 1 & half years of hands-on experience, having a great experience with React, Node JS with Express framework and MongoDB for database, specialized in javascript stack (i.e., Node.js, React.js), love to build full-stack applications, and currently working on blockchain educaton learning platform. 
   </p>
 
   <br>
@@ -27,14 +28,16 @@
 
 </div> 
 
+<br>
 
-Skills: HTML / CSS/ Bootstrap/ JavaScript/ React/ Node.js/Express/ Python/ C++/ Java/ Material UI/ React-Bootstrap
 
-<!-- - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning React/Node.js/MongoDB.
-- 💬 Ask me about anything about programming and coding. 
-- ⚡ Fun fact: I go to bed after programming and wake up before it!!! 
-- 👀 I’m currently seeking for Jr. Full Stack Web Development job! -->
+## <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+
+👨‍💻 Programming Languages
+  <a href="https://www.c.com" target="_blank"> 
+    <img alt="Java" src="https://img.shields.io/badge/C-ED8B00?style=for-the-badge&logo=c&logoColor=white">
+  </a>
+
 
 ### Connect with me:
 
