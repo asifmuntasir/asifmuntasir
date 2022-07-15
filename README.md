@@ -1,6 +1,4 @@
-<p>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=0BE881&lines=Hey+there!+Its+me+Asif+Muntasir.;I'm+learning+Full+Stack+Development...;I+also+a+CRAZY+JavaScript+fan...;Stay+with+me!)](https://git.io/typing-svg)<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=0BE881&lines=Hey+there!+Its+me+Asif+Muntasir.;I'm+learning+Full+Stack+Development...;I+also+a+CRAZY+JavaScript+fan...;Stay+with+me!)](https://git.io/typing-svg)
 
 ![](https://raw.githubusercontent.com/asifmuntasir/asifmuntasir/master/header_.png)
 
@@ -11,7 +9,7 @@
 <div>
   
   <p>
-  I am a Full Stack MERN Developer with 1 & half years of hands-on experience, having a great experience with React, Node JS with Express framework and MongoDB for database, specialized in javascript stack (i.e., Node.js, React.js), love to build full-stack applications, and currently working on blockchain educaton learning platform. 
+  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> I am a Full Stack MERN Developer with 1 & half years of hands-on experience, having a great experience with React, Node JS with Express framework and MongoDB for database, specialized in javascript stack (i.e., Node.js, React.js), love to build full-stack applications, and currently working on blockchain learning platform. 
   </p>
 
   <br>
@@ -28,16 +26,16 @@
 
 </div> 
 
-<br>
 
+<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
-## <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-
-👨‍💻 Programming Languages
-  <a href="https://www.c.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/C-ED8B00?style=for-the-badge&logo=c&logoColor=white">
+- 👨‍💻 Programming Languages: 
+  <a href="https://www.tutorialspoint.com/cprogramming/index.htm" target="_blank"> 
+    <img alt="C" src="https://img.shields.io/badge/C-2980b9?style=for-the-badge&logo=c&logoColor=white">
   </a>
-
+  <a href="https://www.w3schools.com/CPP/default.asp" target="_blank"> 
+    <img alt="C++" src="https://img.shields.io/badge/C++-1e3799?style=for-the-badge&logo=c++&logoColor=white">
+  </a>
 
 ### Connect with me:
 
