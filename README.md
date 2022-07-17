@@ -72,7 +72,9 @@
   </a>
   <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB">
   </a>
-  <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white">
+  <a href="#"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-404d59.svg?logo=next.js&logoColor=white">
+  </a>
+  <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-dfe6e9.svg?logo=express&logoColor=black">
   </a>
 
 </p>
@@ -83,7 +85,7 @@
 
   <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white">
   </a>
-  <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white">
+  <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white">
   </a>
   <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white">
   </a>
