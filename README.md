@@ -29,21 +29,21 @@
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
-- 👨‍💻 Programming Languages: 
+- 👨‍💻 Programming Languages: <br> 
   <a href="https://www.tutorialspoint.com/cprogramming/index.htm" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/C-2980b9?style=for-the-badge&logo=c&logoColor=white">
+    <img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-2980b9?style=for-the-badge&logo=c-in-hexagon&logoColor=white">
   </a>
   <a href="https://www.w3schools.com/CPP/default.asp" target="_blank"> 
-    <img alt="C++" src="https://img.shields.io/badge/C++-1e3799?style=for-the-badge&logo=c++&logoColor=white">
+    <img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?style=for-the-badge&logo=cpp2&logoColor=white">
   </a>
   <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+    <img alt="Java" src="https://custom-icon-badges.herokuapp.com/badge/Java-007396.svg?logo=java&logoColor=white">
   </a>
   <a href="https://www.javascript.com/" target="_blank"> 
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-fed330?style=for-the-badge&logo=c++&logoColor=white">
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
   </a>
   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
   </a>
 
 ### Connect with me:
