@@ -93,6 +93,8 @@
   </a>
   <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black">
   </a>
+  <a href="#"><img alt="Netlify" src="https://img.shields.io/badge/Netlify-ffffff.svg?logo=netlify&logoColor=4C9BBF">
+  </a>
   <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white">
   </a>
   <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white">
@@ -157,7 +159,7 @@
   </a>
 	<a href="https://www.facebook.com/muntasir.asif.79"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/>
   </a>
-	<a href="[https://instagram.com/candyyyy__18](https://www.instagram.com/asif_9602/)"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/>
+	<a href="https://www.instagram.com/asif_9602/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/>
   </a>
 <!-- 	<a href="https://www.youtube.com/channel/UC7V1Gm8V0kRLp_EHB8aDj2A"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/>
   </a> -->
