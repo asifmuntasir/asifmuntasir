@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=0BE881&lines=Hey+there!+Its+me+Asif+Muntasir.;I'm+learning+Full+Stack+Development...;I+also+a+CRAZY+JavaScript+fan...;Stay+with+me!)](https://git.io/typing-svg) <img src="[https://media.giphy.com/media/KAFbB4lHFco2ID2kIV/giphy.gif](https://bestanimations.com/media/bangladesh/735020254bangladesh-flag-waving-gif-animation-18.gif)" width="3%" height="3%">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=0BE881&lines=Hey+there!+Its+me+Asif+Muntasir.;I'm+learning+Full+Stack+Development...;I+also+a+CRAZY+JavaScript+fan...;Stay+with+me!)](https://git.io/typing-svg)
 
 ![](https://raw.githubusercontent.com/asifmuntasir/asifmuntasir/master/header_.png)
 
@@ -71,6 +71,8 @@
   <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-0081CB.svg?logo=material-design&logoColor=white">
   </a>
   <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB">
+  </a>
+  <a href="#"><img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC.svg?logo=redux&logoColor=E6DEF3">
   </a>
   <a href="#"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-404d59.svg?logo=next.js&logoColor=white">
   </a>
