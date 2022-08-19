@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=0BE881&lines=Hey+there!+Its+me+Asif+Muntasir.;I'm+learning+Full+Stack+Development...;I+also+a+CRAZY+JavaScript+fan...;Stay+with+me!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=0BE881&lines=Hey+there!+Its+me+Asif+Muntasir.;I'm+learning+Full+Stack+Development...;I+also+a+CRAZY+JavaScript+fan...;Stay+with+me!)](https://git.io/typing-svg) <img src="[https://media.giphy.com/media/KAFbB4lHFco2ID2kIV/giphy.gif](https://bestanimations.com/media/bangladesh/735020254bangladesh-flag-waving-gif-animation-18.gif)" width="3%" height="3%">
 
 ![](https://raw.githubusercontent.com/asifmuntasir/asifmuntasir/master/header_.png)
 
